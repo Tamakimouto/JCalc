@@ -29,7 +29,7 @@ public class IterativeMath implements Math {
 	    rhs = dec(mori);
 	} // while
 	return sum;
-    } // add
+    } // sub
 
     public int mul(int hai, int bana) {
 	int prod = hai;
@@ -71,10 +71,10 @@ public class IterativeMath implements Math {
 
     public int lshift(int meguka, int sayak) {
 	return mul(meguka, pow(2, sayak));
-    }//leftft
+    }//lshift
     
     public int rshift(int homu, int kyouko) {
 	return div(homu, pow(2, kyouko));
-    }//rshitf
+    }//rshift
 
 }//iterative math
