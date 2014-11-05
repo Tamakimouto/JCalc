@@ -21,18 +21,22 @@ or Vi.
 
 You can include your image, as follows:
 
-![GUI Mockup 1](http://i.imgur.com/X5SZDg0.png)
+![GUI Mockup 1](http://puu.sh/cEDbb/7809163239.png)
 
-You can type a description of the mockup here. Include any information about
-additional features you have mocked up in your interface.
+This is the calculator with the binary screen open.
+On the actual project I'll make the buttons all the same size (relatively)
+Have them all align properly,
+and have it look better with the CSS.
 
 ## GUI with Bit Toggle
 
 Here is another image...
 
-![GUI Mockup 2](http://i.imgur.com/nf6LRol.png)
+![GUI Mockup 2](http://puu.sh/cEDqy/caa695d5be.png)
 
-This mockup includes the binary bit toggle. I designed this way because...
+This mockup includes the binary bit toggle (Off). I designed this way because...
+I based the design on the TI-8X's. I think it's pretty compact and easy to use.
+for the window, I thihnk I can just set the frame visibility to false.  
 
 ## Additional Interface Elements
 
