@@ -66,7 +66,7 @@ public class RecursiveMath
     }// left shift
 
     public int rshift(int lhs, int rhs){
-	return div(lhs, pow(2, rhs))
+	return div(lhs, pow(2, rhs));
     }
     
     

@@ -1,10 +1,15 @@
 
 #main-pane {
-    -fx-background-color: blue;
+    -fx-background-color: grey;
 }
 
 #welcome-text {
     -fx-font-size: 2em;
     -fx-font-weight: bold;
-    -fx-fill: red;
+    -fx-font-family: terminus
+    -fx-fill: lightgrey;
+}
+
+.rikaButton {
+    
 }
