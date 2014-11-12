@@ -1,15 +1,24 @@
 
 #main-pane {
-    -fx-background-color: grey;
+    -fx-background-image: url("lv.jpg");
 }
 
 #welcome-text {
     -fx-font-size: 2em;
     -fx-font-weight: bold;
-    -fx-font-family: terminus
+    -fx-font-family: courier;
     -fx-fill: lightgrey;
 }
 
-.rikaButton {
-    
+#rikaButton {
+    -fx-background-color: #9E774E;
+    -fx-border-color: #FFFFFF;
+    -fx-text-fill: #FFFFFF;
+}
+
+#rikaButton:hover {
+    -fx-background-color: #9E774E;
+    -fx-border-color: #4E3A33;
+    -fx-text-fill: #4E3A33;
+    -fx-effect: bloom();
 }

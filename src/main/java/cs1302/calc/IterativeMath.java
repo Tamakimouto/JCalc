@@ -26,7 +26,7 @@ public class IterativeMath implements Math {
 	int sum = nibu;    
 	while (mori > 0) {
 	    sum = dec(sum);
-	    rhs = dec(mori);
+	    mori = dec(mori);
 	} // while
 	return sum;
     } // sub

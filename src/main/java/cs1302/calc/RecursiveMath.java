@@ -49,16 +49,16 @@ public class RecursiveMath
         return div_acc(inc(counter), sub(lhs,rhs), rhs);
     }//division accumulator
     
-    public int fac(int num){
-        if(num == 0)
+    public int fac(int rika){
+        if(rika == 0)
             return 1;
-	return num * factorial(n-1);
+	return mul(rika, fac(dec(rika)));
     }//factorial
     
     public int pow(int base, int exp){
         if(exp == 0)
             return 1;
-        return lhs * pow(base, exp--);
+        return mul(base, pow(base, dec(exp)));
     }//factorial
 
     public int lshift(int lhs, int rhs){
