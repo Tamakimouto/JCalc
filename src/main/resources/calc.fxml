@@ -55,26 +55,27 @@
     <center>
       <!--Code here-->
       <VBox spacing="8" alignment="center">
+
 	<HBox spacing="10" alignment="center">
 	  <Button id="rikaButton" text="7"/>
 	  <Button id="rikaButton" text="8"/>
 	  <Button id="rikaButton" text="9"/>
-	  </HBox>
+	</HBox>
 	
 	<HBox spacing="8" alignment="center">
 	  <Button id="rikaButton" text="4"/>
 	  <Button id="rikaButton" text="5"/>
 	  <Button id="rikaButton" text="6"/>
-	  </HBox>
+	</HBox>
 
-	<HBox spacing="8" alignment"center">
+	<HBox spacing="8" alignment="center">
 	  <Button id="rikaButton" text="1"/>
 	  <Button id="rikaButton" text="2"/>
 	  <Button id="rikaButton" text="3"/>
-	  </HBox>
+	</HBox>
 
-	<VBox/>
-    </center>
+	</VBox>
+      </center>
       
     <right>
       <!--Code here-->
