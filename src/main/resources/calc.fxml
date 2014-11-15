@@ -20,15 +20,16 @@
     <top>
       <VBox spacing="8" alignment="center">
 
-	<HBox id="snoop-dogs-heavenly-box" 
-	      spacing="10" alignment="center" 
+	<VBox id="snoop-dogs-heavenly-box" 
+	      spacing="5" alignment="center" 
 	      style="-fx-background-color: #9E774E;">
-	  <Label fx:id="mori" id="rikaLabel" />
-	</HBox>
+	  <Label fx:id="mori" id="rikaLabel" text="0"/>
+	  <Label fx:id="ange" id="rikaLabel" visible="false"/>
+	</VBox>
 
 	<HBox spacing="10" alignment="center">
-	  <Button id="rikaButton" text="Recursion/Iteration"/>
-	  <Button id="rikaButton" text="Show/Hide Binary" />
+	  <Button id="rikaButton" fx:id="sama" onAction="#modePress" text="Use Recursive"/>
+	  <Button id="rikaButton" onAction="#binPress" text="Binary" />
 	</HBox>
 	
 	<HBox spacing="8" alignment="center">

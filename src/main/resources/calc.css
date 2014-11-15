@@ -22,6 +22,7 @@
     -fx-border-width: 2;
     -fx-pref-width: 135;
     -fx-pref-height: 50;
+    -fx-font-family: Courier;
 }
 
 #rikaButton:hover {
@@ -33,7 +34,15 @@
 #rikaLabel {
     -fx-text-fill: #4E3A33;
     -fx-text-alignment: center;
-    -fx-padding: 20 30 20 30;
+    -fx-font-family: Courier;
+    -fx-padding: 10 30 0 30;
+}
+
+#dekoLabel {
+    -fx-text-fill: #4E3A33;
+    -fx-text-alignment: center;
+    -fx-font-family: Courier;
+    -fx-padding: 5 30 10 30;
 }
 
 #dekoButton {
@@ -46,6 +55,12 @@
     -fx-pref-height: 40;
 }
 
+#dekoButton:hover {
+    -fx-background-color: #9E774E;
+    -fx-border-color: #4E3A33;
+    -fx-text-fill: #4E3A33;
+
+
 #nibuButton {
     -fx-background-color: #9E774E;
     -fx-background-size: 30 10;
@@ -56,6 +71,12 @@
     -fx-pref-height: 65;
 }
 
+#nibuButton:hover {
+    -fx-background-color: #9E774E;
+    -fx-border-color: #4E3A33;
+    -fx-text-fill: #4E3A33;
+
+
 #togaButton {
     -fx-background-color: #9E774E;
     -fx-background-size: 30 10;
@@ -65,3 +86,8 @@
     -fx-pref-width: 40;
     -fx-pref-height: 40;
 }
+
+#togaButton:hover {
+    -fx-background-color: #9E774E;
+    -fx-border-color: #4E3A33;
+    -fx-text-fill: #4E3A33;
