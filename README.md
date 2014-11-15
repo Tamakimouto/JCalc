@@ -1,3 +1,27 @@
+# Project Submission
+
+Author1: Anthony Zheng (4700)
+Author2: Yuhao Chen (LAST 3 DIGITS of 810/811)
+
+[If you did any of the exra credit then please indicate that here.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CSCI 1302 - Calculator Project (cs1302-calculator)
 
 Skeleton code for the Calculator project assigned to the students in Michael E. 
