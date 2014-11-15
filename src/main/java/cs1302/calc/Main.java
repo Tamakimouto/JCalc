@@ -22,8 +22,8 @@ public class Main extends Application {
 	
 	try {
 	    Parent root = FXMLLoader.load(getClass().getResource("/calc.fxml"));
-	    primaryStage.setTitle("CalcFX!");
-	    primaryStage.setScene(new Scene(root, 330, 480));
+	    primaryStage.setTitle(" @ The $uper $wag M0n3y Add3R! ");
+	    primaryStage.setScene(new Scene(root, 340, 500));
 	    primaryStage.show();
 	} catch (Exception e) {
 	    System.out.println("There was a problem while running your program.");

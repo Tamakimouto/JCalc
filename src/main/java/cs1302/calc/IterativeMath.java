@@ -4,7 +4,11 @@ package cs1302.calc;
 // according to the rules presented in the project description
 
 public class IterativeMath implements Math {
+
+    public IterativeMath(){
     
+    }
+
     public int inc(int rika){
 	return rika ++;
     }//inc

@@ -10,15 +10,58 @@
     -fx-fill: lightgrey;
 }
 
+#snoop-dogs-heavenly-box {
+    -fx-border-width: 3;
+}
+
 #rikaButton {
     -fx-background-color: #9E774E;
+    -fx-background-size: 30 10;
     -fx-border-color: #FFFFFF;
     -fx-text-fill: #FFFFFF;
+    -fx-border-width: 2;
+    -fx-pref-width: 135;
+    -fx-pref-height: 50;
 }
 
 #rikaButton:hover {
     -fx-background-color: #9E774E;
     -fx-border-color: #4E3A33;
     -fx-text-fill: #4E3A33;
-    -fx-effect: bloom();
+}
+
+#rikaLabel {
+    -fx-text-fill: #4E3A33;
+    -fx-text-alignment: center;
+    -fx-padding: 20 30 20 30;
+}
+
+#dekoButton {
+    -fx-background-color: #9E774E;
+    -fx-background-size: 30 10;
+    -fx-border-color: #FFFFFF;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-width: 2;
+    -fx-pref-width: 65;
+    -fx-pref-height: 40;
+}
+
+#nibuButton {
+    -fx-background-color: #9E774E;
+    -fx-background-size: 30 10;
+    -fx-border-color: #FFFFFF;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-width: 2;
+    -fx-pref-width: 40;
+    -fx-pref-height: 65;
+}
+
+#togaButton {
+    -fx-background-color: #9E774E;
+    -fx-background-size: 30 10;
+    -fx-border-color: #FFFFFF;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-width: 2;
+    -fx-pref-width: 40;
+    -fx-pref-height: 40;
 }

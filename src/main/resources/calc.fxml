@@ -4,74 +4,85 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.text.*?>
-
+<?import javafx.scene.image.*?>
 
 <BorderPane stylesheets="calc.css"
-    id="main-pane"
-    xmlns:fx="http://javafx.com">
+	    id="main-pane"
+	    xmlns:fx="http://javafx.com"
+	    fx:controller="cs1302.calc.controls">
 
-    <padding><Insets top="25" right="25" bottom="25" left="25"/></padding>
+    <padding><Insets top="25" right="15" bottom="0" left="15"/></padding>
     
     <Text id="welcome-text" text="Konbanwa" 
         GridPane.columnIndex="0" GridPane.rowIndex="0"
         GridPane.columnSpan="2"/>
     
-    <!--
-    <HBox spacing="10" style="-fx-background-color: #9E774E;>
-	  <Label text="Results"/>
-    </HBox>
-    -->
-    
     <top>
       <VBox spacing="8" alignment="center">
 
-	<HBox spacing="10" style="-fx-background-color: #9E774E;">
-	  <Label text="results"/>
+	<HBox id="snoop-dogs-heavenly-box" 
+	      spacing="10" alignment="center" 
+	      style="-fx-background-color: #9E774E;">
+	  <Label fx:id="mori" id="rikaLabel" />
 	</HBox>
 
 	<HBox spacing="10" alignment="center">
-	  <Button id="rikaButton" text="Use Recursion/Iteration"/>
+	  <Button id="rikaButton" text="Recursion/Iteration"/>
 	  <Button id="rikaButton" text="Show/Hide Binary" />
 	</HBox>
 	
 	<HBox spacing="8" alignment="center">
-	  <Button id="rikaButton" text="del"/>
-	  <Button id="rikaButton" text="Clear"/>
-	  <Button id="rikaButton" text="lshift"/>
-	  <Button id="rikaButton" text="rshift"/>
+	  <Button id="dekoButton" onAction="#delPress" text="Del"/>
+	  <Button id="dekoButton" onAction="#clrPress" text="Clear"/>
+	  <Button id="dekoButton" onAction="#lshPress" text="LShift"/>
+	  <Button id="dekoButton" onAction="#rshPress" text="RShift"/>
+	</HBox>
+
+	<HBox spacing="8" alignment="center">
+	  <Button id="dekoButton" onAction="#addPress" text="Add"/>
+	  <Button id="dekoButton" onAction="#subPress" text="Sub"/>
+	  <Button id="dekoButton" onAction="#mulPress" text="Mul"/>
+	  <Button id="dekoButton" onAction="#divPress" text="Div"/>
 	</HBox>
 	
       </VBox>
     </top>
     
     <left>
-      <!--Code here-->
-      <VBox spacing="8" alignment="center">
-	<Button id="rikaButton"  text="^"/>
-	<Button id="rikaButoon"  text="!"/>
-      </VBox>
+      <HBox spacing="10">
+
+	<ImageView preserveRatio="true" fitWidth="40">
+	  <image>
+	    <Image url="snoop.gif"/>
+	  </image>
+	</ImageView>
+	<VBox spacing="8" alignment="center">
+	  <Button id="nibuButton" onAction="#powPress" text="^"/>
+	  <Button id="nibuButton" onAction="#facPress" text="!"/>
+	</VBox>
+      </HBox>
     </left>
 
     <center>
       <!--Code here-->
       <VBox spacing="8" alignment="center">
 
-	<HBox spacing="10" alignment="center">
-	  <Button id="rikaButton" text="7"/>
-	  <Button id="rikaButton" text="8"/>
-	  <Button id="rikaButton" text="9"/>
+	<HBox spacing="6" alignment="center">
+	  <Button id="togaButton" onAction="#num7Pressed" text="7"/>
+	  <Button id="togaButton" onAction="#num8Pressed" text="8"/>
+	  <Button id="togaButton" onAction="#num9Pressed" text="9"/>
 	</HBox>
 	
-	<HBox spacing="8" alignment="center">
-	  <Button id="rikaButton" text="4"/>
-	  <Button id="rikaButton" text="5"/>
-	  <Button id="rikaButton" text="6"/>
+	<HBox spacing="6" alignment="center">
+	  <Button id="togaButton" onAction="#num4Pressed" text="4"/>
+	  <Button id="togaButton" onAction="#num5Pressed" text="5"/>
+	  <Button id="togaButton" onAction="#num6Pressed" text="6"/>
 	</HBox>
 
-	<HBox spacing="8" alignment="center">
-	  <Button id="rikaButton" text="1"/>
-	  <Button id="rikaButton" text="2"/>
-	  <Button id="rikaButton" text="3"/>
+	<HBox spacing="6" alignment="center">
+	  <Button id="togaButton" onAction="#num1Pressed" text="1"/>
+	  <Button id="togaButton" onAction="#num2Pressed" text="2"/>
+	  <Button id="togaButton" onAction="#num3Pressed" text="3"/>
 	</HBox>
 
 	</VBox>
@@ -79,10 +90,29 @@
       
     <right>
       <!--Code here-->
-      <VBox spacing="8" alignment="center">
-	<Button id="rikaButton" text="0"/>
-	<Button id="rikaButton" text="="/>
-      </VBox>
+      <HBox>
+	<VBox spacing="8" alignment="center">
+	  <Button id="nibuButton" onAction="#num0Pressed" text="0"/>
+	  <Button id="nibuButton" onAction="#eqPress" text="="/>
+	</VBox>
+
+	<ImageView preserveRatio="true" fitWidth="40">
+	  <image>
+	    <Image url="snoop.gif"/>
+	  </image>
+	</ImageView>
+
+      </HBox>
     </right>
+
+    <bottom>
+      <VBox alignment="center">
+	<ImageView preserveRatio="true" fitWidth="280">
+	  <image>
+	    <Image url="cash_pile.gif"/>
+	  </image>
+	</ImageView>
+      </VBox>
+    </bottom>
 
 </BorderPane>
