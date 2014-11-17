@@ -59,7 +59,7 @@
     -fx-background-color: #9E774E;
     -fx-border-color: #4E3A33;
     -fx-text-fill: #4E3A33;
-
+}
 
 #nibuButton {
     -fx-background-color: #9E774E;
@@ -75,7 +75,7 @@
     -fx-background-color: #9E774E;
     -fx-border-color: #4E3A33;
     -fx-text-fill: #4E3A33;
-
+}
 
 #togaButton {
     -fx-background-color: #9E774E;
@@ -91,3 +91,4 @@
     -fx-background-color: #9E774E;
     -fx-border-color: #4E3A33;
     -fx-text-fill: #4E3A33;
+}
