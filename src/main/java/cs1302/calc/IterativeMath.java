@@ -10,11 +10,11 @@ public class IterativeMath implements Math {
     }
 
     public int inc(int rika){
-	return rika ++;
+	return rika + 1;
     }//inc
 
     public int dec(int deko){
-	return deko --;
+	return deko - 1;
     }//dec 
 
     public int add(int nibu, int mori) {
