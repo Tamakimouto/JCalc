@@ -16,7 +16,11 @@ public class RecursiveMath
 	    return lhs;
 	return add(inc(lhs), dec(rhs));
     } // takes in 2 integers and add them 
-    
+  
+    public RecursiveMath() {
+
+    }
+
     public int sub(int lhs, int rhs){
 	if(rhs == 0) 
 	    return lhs;
