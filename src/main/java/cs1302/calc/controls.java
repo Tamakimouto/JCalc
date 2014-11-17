@@ -44,7 +44,7 @@ public class controls {
     function fx = function.Add;
     mode md = mode.Iterative;
 
-    int x = 0;
+    int x, y, b, sum;
 
     /**
      * This method exists to update the "screen"
@@ -70,7 +70,7 @@ public class controls {
      * which we update frequently.
      */
     @FXML public void updateB(){
-	ange.setText(Integer.toString(x, 2));
+	ange.setText(Integer.toString(b, 2));
     }
     
     /**
@@ -85,7 +85,7 @@ public class controls {
      */
     @FXML public void num2Pressed(ActionEvent event){
 	numbers += "2";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -102,7 +102,7 @@ public class controls {
      */
     @FXML public void num1Pressed(ActionEvent event){
 	numbers += "1";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -119,7 +119,7 @@ public class controls {
      */
     @FXML public void num3Pressed(ActionEvent event){
 	numbers += "3";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -136,7 +136,7 @@ public class controls {
      */
     @FXML public void num4Pressed(ActionEvent event){
 	numbers += "4";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -153,7 +153,7 @@ public class controls {
      */
     @FXML public void num5Pressed(ActionEvent event){
 	numbers += "5";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -170,7 +170,7 @@ public class controls {
      */
     @FXML public void num6Pressed(ActionEvent event){
 	numbers += "6";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -187,7 +187,7 @@ public class controls {
      */
     @FXML public void num7Pressed(ActionEvent event){
 	numbers += "7";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -204,7 +204,7 @@ public class controls {
      */
     @FXML public void num8Pressed(ActionEvent event){
 	numbers += "8";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -221,7 +221,7 @@ public class controls {
      */
     @FXML public void num9Pressed(ActionEvent event){
 	numbers += "9";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -238,7 +238,7 @@ public class controls {
      */
     @FXML public void num0Pressed(ActionEvent event){
 	numbers += "0";
-	x = Integer.parseInt(numbers);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
@@ -255,7 +255,7 @@ public class controls {
      */
     @FXML public void clrPress(ActionEvent event){
 	numbers = "";
-	x = 0;
+	b = 0;
 	updateB();
 	resL();
     }
@@ -293,7 +293,7 @@ public class controls {
     @FXML public void binPress(ActionEvent event){
 	if (binary == false){
 	    binary = true;
-	    ange.setText(Integer.toString(x, 2));
+	    ange.setText(Integer.toString(b, 2));
 	    ange.setVisible(true);
 	}else if (binary == true){
 	    binary = false;
@@ -317,6 +317,7 @@ public class controls {
      */ 
     @FXML public void addPress(ActionEvent event){
 	x = Integer.parseInt(numbers);
+	System.out.println("hi im x" + x);
 	updateL();
 	updateB();
 	numbers = "";
@@ -489,10 +490,14 @@ public class controls {
     @FXML public void eqPress(ActionEvent event){
 	if (fx == function.Add){
 	    if (md == mode.Iterative){
-		x = bob.add(x, Integer.parseInt(numbers));
+		y = Integer.parseInt(numbers);
+		System.out.println("x = " + x);
+		System.out.println("y = " + y);
+		sum = bob.add(x, y);
 	    }else if (md == mode.Recursive)
-		x = sadako.add(x, Integer.parseInt(numbers));
-	    numbers = Integer.toString(x);
+		y = Integer.parseInt(numbers);
+		sum = sadako.add(x, y);
+	    numbers = Integer.toString(sum);
 	    updateL();
 	    updateB();
 	    numbers = "";
@@ -516,7 +521,7 @@ public class controls {
 	    numbers = "";
 	}else if (fx == function.Div){
 	    if (md == mode.Iterative){
-		x = bob.div(x, Integer.parseInt(numbers));
+		x = (int)bob.div(x, Integer.parseInt(numbers));
 	    }else if (md == mode.Recursive)
 		x = sadako.div(x, Integer.parseInt(numbers));
 	    numbers = Integer.toString(x);

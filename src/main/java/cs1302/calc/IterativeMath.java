@@ -18,12 +18,14 @@ public class IterativeMath implements Math {
     }//dec 
 
     public int add(int nibu, int mori) {
-	int sum = nibu;    
+	//int sum = nibu;
+	System.out.println(nibu);
+	System.out.println(mori);
 	while (mori > 0) {
-	    sum = inc(sum);
+	    nibu = inc(nibu);
 	    mori = dec(mori);
 	} // while
-	return sum;
+	return nibu;
     } // add
 
     public int sub(int nibu, int mori) {

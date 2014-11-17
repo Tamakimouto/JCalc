@@ -7,9 +7,9 @@ package cs1302.calc;
 
 public class RecursiveMath
 {
-    public int inc(int n){return n++;}//increment by 1
+    public int inc(int n){return n+1;}//increment by 1
    
-    public int dec(int n){return n--;}//decrement by 1
+    public int dec(int n){return n-1;}//decrement by 1
    
     public int add(int lhs, int rhs){
 	if (rhs == 0) 
