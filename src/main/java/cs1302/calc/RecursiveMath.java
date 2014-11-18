@@ -24,13 +24,12 @@ public class RecursiveMath
     public int sub(int lhs, int rhs){
 	if(rhs == 0) 
 	    return lhs;
-	if(lhs == 0)
-	    return -rhs;
+	  
 	return sub(dec(lhs), dec(rhs));
     }//subtraction
     
     public int mul(int lhs, int rhs){
-        return mul_acc(lhs, lhs, lhs);
+        return mul_acc(lhs, lhs, rhs);
     }//multiplication
     
     public int mul_acc(int sum, int lhs, int rhs){
@@ -49,7 +48,7 @@ public class RecursiveMath
         if(lhs < rhs) 
             return counter;
         if(lhs == rhs)
-            return 1;
+            return inc(counter);
         return div_acc(inc(counter), sub(lhs,rhs), rhs);
     }//division accumulator
     
