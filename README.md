@@ -1,7 +1,7 @@
 # Project Submission
 
 Author1: Anthony Zheng (4700)
-Author2: Yuhao Chen (LAST 3 DIGITS of 810/811)
+Author2: Yuhao Chen (1987)
 
 [If you did any of the exra credit then please indicate that here.]
 
