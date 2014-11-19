@@ -19,8 +19,8 @@ public class IterativeMath implements Math {
 
     public int add(int nibu, int mori) {
 	//int sum = nibu;
-	System.out.println(nibu);
-	System.out.println(mori);
+	//System.out.println(nibu);
+	//System.out.println(mori);
 	while (mori > 0) {
 	    nibu = inc(nibu);
 	    mori = dec(mori);
@@ -38,7 +38,7 @@ public class IterativeMath implements Math {
     } // sub
 
     public int mul(int hai, int bana) {
-	int prod = hai;
+	int prod = 0;
 	while (bana > 0) {
 	    prod = add(prod, hai);
 	    bana = dec(bana);
@@ -61,14 +61,17 @@ public class IterativeMath implements Math {
 	int sum = bara;
 	while (hana > 0) {
 	    hana = dec(hana);
-	    sum = mul(sum, hana);
+	    if (hana != 0)
+		sum = mul(sum, hana);
 	}//while
 	return sum;
     }//fac
 
     public int pow(int rika, int toga) {
 	int sum = rika;
-	while (toga > 0) {
+	if (toga == 0)
+	    return 1;
+	while (toga > 1) {
 	    sum = mul(sum, rika);
 	    toga = dec(toga);
 	}//while

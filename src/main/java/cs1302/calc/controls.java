@@ -494,9 +494,12 @@ public class controls {
 		System.out.println("x = " + x);
 		System.out.println("y = " + y);
 		sum = bob.add(x, y);
-	    }else if (md == mode.Recursive)
+		b = sum;
+	    }else if (md == mode.Recursive){
 		y = Integer.parseInt(numbers);
 		sum = sadako.add(x, y);
+		b = sum;
+	    }
 	    numbers = Integer.toString(sum);
 	    updateL();
 	    updateB();
@@ -504,8 +507,11 @@ public class controls {
 	}else if (fx == function.Sub){
 	    if (md == mode.Iterative){
 		x = bob.sub(x, Integer.parseInt(numbers));
-	    }else if (md == mode.Recursive)
+		b = x;
+	    }else if (md == mode.Recursive){
 		x = sadako.sub(x, Integer.parseInt(numbers));
+		b=x;
+	    }
 	    numbers = Integer.toString(x);
 	    updateL();
 	    updateB();
@@ -513,8 +519,11 @@ public class controls {
 	}else if (fx == function.Mul){
 	    if (md == mode.Iterative){
 		x = bob.mul(x, Integer.parseInt(numbers));
-	    }else if (md == mode.Recursive)
+		b = x;
+	    }else if (md == mode.Recursive){
 		x = sadako.mul(x, Integer.parseInt(numbers));
+		b = x;
+	    }
 	    numbers = Integer.toString(x);
 	    updateL();
 	    updateB();
@@ -522,8 +531,11 @@ public class controls {
 	}else if (fx == function.Div){
 	    if (md == mode.Iterative){
 		x = (int)bob.div(x, Integer.parseInt(numbers));
-	    }else if (md == mode.Recursive)
+		b = x;
+	    }else if (md == mode.Recursive){
 		x = sadako.div(x, Integer.parseInt(numbers));
+		b = x;
+	    }
 	    numbers = Integer.toString(x);
 	    updateL();
 	    updateB();
@@ -531,8 +543,11 @@ public class controls {
 	}else if (fx == function.Rsh){
 	    if (md == mode.Iterative){
 		x = bob.rshift(x, Integer.parseInt(numbers));
-	    }else if (md == mode.Recursive)
+		b = x;
+	    }else if (md == mode.Recursive){
 		x = sadako.rshift(x, Integer.parseInt(numbers));
+		b = x;
+	    }
 	    numbers = Integer.toString(x);
 	    updateL();
 	    updateB();
@@ -540,8 +555,11 @@ public class controls {
 	}else if(fx == function.Lsh){
 	    if (md == mode.Iterative){
 		x = bob.lshift(x, Integer.parseInt(numbers));
-	    }else if (md == mode.Recursive)
+		b = x;
+	    }else if (md == mode.Recursive){
 		x = sadako.lshift(x, Integer.parseInt(numbers));
+		b = x;
+	    }
 	    numbers = Integer.toString(x);
 	    updateL();
 	    updateB();
@@ -549,8 +567,11 @@ public class controls {
 	}else if(fx == function.Fac){
 	    if (md == mode.Iterative){
 		x = bob.fac(x);
-	    }else if (md == mode.Recursive)
+		b = x;
+	    }else if (md == mode.Recursive){
 		x = sadako.fac(x);
+		b = x;
+	    }
 	    numbers = Integer.toString(x);
 	    updateL();
 	    updateB();
@@ -558,8 +579,11 @@ public class controls {
 	}else if (fx == function.Pow){
 	    if (md == mode.Iterative){
 		x = bob.pow(x, Integer.parseInt(numbers));
-	    }else if (md == mode.Recursive)
+		b = x;
+	    }else if (md == mode.Recursive){
 		x = sadako.pow(x, Integer.parseInt(numbers));
+		b = x;
+	    }
 	    numbers = Integer.toString(x);
 	    updateL();
 	    updateB();
@@ -575,6 +599,7 @@ public class controls {
      */ 
     @FXML public void delPress(ActionEvent event){
 	numbers = numbers.substring(0, numbers.length()-1);
+	b = Integer.parseInt(numbers);
 	updateL();
 	updateB();
     }
