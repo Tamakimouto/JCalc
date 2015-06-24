@@ -1,0 +1,542 @@
+Zheng-Chen-p3:
+total 1260
+-rw-r--r--. 1 ugrad     324 Nov 12 15:34 build.sbt
+-rw-r--r--. 1 ugrad   19604 Oct 31 14:10 exit
+-rw-r--r--. 1 ugrad    1741 Nov  5 15:31 MOCKUP.md
+drwxr-xr-x. 3 ugrad    4096 Nov  5 11:00 project
+-rw-r--r--. 1 ugrad   20576 Nov 15 18:44 README.md
+-rw-r--r--. 1 ugrad       0 Nov 15 18:50 rec61660
+-rwxr-xr-x. 1 ugrad      51 Oct 31 14:04 sbt
+-rw-r--r--. 1 ugrad 1216768 Oct 31 14:04 sbt-launch.jar
+drwxr-xr-x. 4 ugrad    4096 Oct 31 14:04 src
+drwxr-xr-x. 5 ugrad    4096 Nov  5 11:00 target
+
+Zheng-Chen-p3/project:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 target
+
+Zheng-Chen-p3/project/target:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 12 15:41 config-classes
+
+Zheng-Chen-p3/project/target/config-classes:
+total 104
+-rw-r--r--. 1 ugrad 1368 Nov  5 11:00 $08769b90f997733d422e$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov  5 11:00 $08769b90f997733d422e.cache
+-rw-r--r--. 1 ugrad  394 Nov  5 11:00 $08769b90f997733d422e.class
+-rw-r--r--. 1 ugrad 1537 Nov  5 11:00 $08769b90f997733d422e$.class
+-rw-r--r--. 1 ugrad  881 Nov  5 11:00 $3c147d7fca0a83e4de61$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov  5 11:00 $3c147d7fca0a83e4de61.cache
+-rw-r--r--. 1 ugrad  394 Nov  5 11:00 $3c147d7fca0a83e4de61.class
+-rw-r--r--. 1 ugrad 1307 Nov  5 11:00 $3c147d7fca0a83e4de61$.class
+-rw-r--r--. 1 ugrad  936 Nov  5 11:00 $4c1a75743cd25c344078$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov  5 11:00 $4c1a75743cd25c344078.cache
+-rw-r--r--. 1 ugrad  394 Nov  5 11:00 $4c1a75743cd25c344078.class
+-rw-r--r--. 1 ugrad 1316 Nov  5 11:00 $4c1a75743cd25c344078$.class
+-rw-r--r--. 1 ugrad   22 Nov  5 11:00 $4f26b07860cd8048b10f.cache
+-rw-r--r--. 1 ugrad  317 Nov  5 11:00 $4f26b07860cd8048b10f.class
+-rw-r--r--. 1 ugrad 2199 Nov  5 11:00 $4f26b07860cd8048b10f$.class
+-rw-r--r--. 1 ugrad   22 Nov  5 11:00 $9c7c59d8d8508cf0ad85.cache
+-rw-r--r--. 1 ugrad  317 Nov  5 11:00 $9c7c59d8d8508cf0ad85.class
+-rw-r--r--. 1 ugrad 2196 Nov  5 11:00 $9c7c59d8d8508cf0ad85$.class
+-rw-r--r--. 1 ugrad  895 Nov  5 11:00 $d55e6cc40ffec75fdeaa$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov  5 11:00 $d55e6cc40ffec75fdeaa.cache
+-rw-r--r--. 1 ugrad  716 Nov  5 11:00 $d55e6cc40ffec75fdeaa.class
+-rw-r--r--. 1 ugrad 1304 Nov  5 11:00 $d55e6cc40ffec75fdeaa$.class
+-rw-r--r--. 1 ugrad  936 Nov 12 15:41 $fcb352c9ab01a3414da6$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 12 15:41 $fcb352c9ab01a3414da6.cache
+-rw-r--r--. 1 ugrad  716 Nov 12 15:41 $fcb352c9ab01a3414da6.class
+-rw-r--r--. 1 ugrad 1480 Nov 12 15:41 $fcb352c9ab01a3414da6$.class
+
+Zheng-Chen-p3/src:
+total 8
+drwxr-xr-x. 4 ugrad 4096 Oct 31 14:04 main
+drwxr-xr-x. 3 ugrad 4096 Oct 31 14:04 test
+
+Zheng-Chen-p3/src/main:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Oct 31 14:04 java
+drwxr-xr-x. 2 ugrad 4096 Nov 15 18:03 resources
+
+Zheng-Chen-p3/src/main/java:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 31 14:04 cs1302
+
+Zheng-Chen-p3/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 15 18:40 calc
+
+Zheng-Chen-p3/src/main/java/cs1302/calc:
+total 44
+-rw-r--r--. 1 ugrad  1385 Oct 31 14:04 BasicMath.java
+-rw-r--r--. 1 ugrad 15777 Nov 15 18:40 controls.java
+-rw-r--r--. 1 ugrad  1606 Nov 15 13:15 IterativeMath.java
+-rw-r--r--. 1 ugrad  1111 Nov 15 10:42 Main.java
+-rw-r--r--. 1 ugrad  2571 Oct 31 14:04 Math.java
+-rw-r--r--. 1 ugrad  1720 Nov 10 01:27 RecursiveMath.java
+-rw-r--r--. 1 ugrad  5783 Oct 31 14:04 ReversePolishNotation.java
+
+Zheng-Chen-p3/src/main/resources:
+total 2520
+-rw-r--r--. 1 ugrad    1870 Nov 15 18:03 calc.css
+-rw-r--r--. 1 ugrad    3404 Nov 15 17:49 calc.fxml
+-rw-r--r--. 1 ugrad   43077 Nov 14 21:57 cash_pile.gif
+-rw-r--r--. 1 ugrad  193819 Nov 10 03:04 lv.jpg
+-rw-r--r--. 1 ugrad 2329653 Oct 17  2012 snoop.gif
+
+Zheng-Chen-p3/src/test:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 31 14:04 java
+
+Zheng-Chen-p3/src/test/java:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 31 14:04 cs1302
+
+Zheng-Chen-p3/src/test/java/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 31 14:15 calc
+
+Zheng-Chen-p3/src/test/java/cs1302/calc:
+total 12
+-rw-r--r--. 1 ugrad  373 Oct 31 14:04 DriverTest.java
+-rw-r--r--. 1 ugrad 2394 Oct 31 14:15 #ReversePolishNotationTest.java#
+-rw-r--r--. 1 ugrad 2394 Oct 31 14:04 ReversePolishNotationTest.java
+
+Zheng-Chen-p3/target:
+total 12
+drwxr-xr-x. 4 ugrad 4096 Nov  5 11:00 resolution-cache
+drwxr-xr-x. 3 ugrad 4096 Nov 15 17:56 scala-2.10
+drwxr-xr-x. 5 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/resolution-cache:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 cs1302-calculator
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 reports
+
+Zheng-Chen-p3/target/resolution-cache/cs1302-calculator:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 cs1302-calculator_2.10
+
+Zheng-Chen-p3/target/resolution-cache/cs1302-calculator/cs1302-calculator_2.10:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 1.0
+
+Zheng-Chen-p3/target/resolution-cache/cs1302-calculator/cs1302-calculator_2.10/1.0:
+total 8
+-rw-r--r--. 1 ugrad  642 Nov  5 11:00 resolved.xml.properties
+-rw-r--r--. 1 ugrad 2051 Nov  5 11:00 resolved.xml.xml
+
+Zheng-Chen-p3/target/resolution-cache/reports:
+total 96
+-rw-r--r--. 1 ugrad   459 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-compile-internal.xml
+-rw-r--r--. 1 ugrad   450 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-compile.xml
+-rw-r--r--. 1 ugrad   447 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-docs.xml
+-rw-r--r--. 1 ugrad   451 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-optional.xml
+-rw-r--r--. 1 ugrad   449 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-plugin.xml
+-rw-r--r--. 1 ugrad   446 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-pom.xml
+-rw-r--r--. 1 ugrad   451 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-provided.xml
+-rw-r--r--. 1 ugrad   459 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-runtime-internal.xml
+-rw-r--r--. 1 ugrad   450 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-runtime.xml
+-rw-r--r--. 1 ugrad  7594 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-scala-tool.xml
+-rw-r--r--. 1 ugrad   450 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-sources.xml
+-rw-r--r--. 1 ugrad  4386 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-test-internal.xml
+-rw-r--r--. 1 ugrad  4342 Nov  5 11:00 cs1302-calculator-cs1302-calculator_2.10-test.xml
+-rw-r--r--. 1 ugrad  4371 Nov  5 11:00 ivy-report.css
+-rw-r--r--. 1 ugrad 20993 Nov  5 11:00 ivy-report.xsl
+
+Zheng-Chen-p3/target/scala-2.10:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 15 17:56 classes
+
+Zheng-Chen-p3/target/scala-2.10/classes:
+total 2524
+-rw-r--r--. 1 ugrad    1522 Nov 15 17:56 calc.css
+-rw-r--r--. 1 ugrad    3404 Nov 15 17:49 calc.fxml
+-rw-r--r--. 1 ugrad   43077 Nov 14 21:57 cash_pile.gif
+drwxr-xr-x. 3 ugrad    4096 Nov 10 01:11 cs1302
+-rw-r--r--. 1 ugrad  193819 Nov 10 03:04 lv.jpg
+-rw-r--r--. 1 ugrad 2329653 Oct 17  2012 snoop.gif
+
+Zheng-Chen-p3/target/scala-2.10/classes/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 15 17:51 calc
+
+Zheng-Chen-p3/target/scala-2.10/classes/cs1302/calc:
+total 44
+-rw-r--r--. 1 ugrad  932 Nov 10 01:27 BasicMath.class
+-rw-r--r--. 1 ugrad 6226 Nov 15 17:51 controls.class
+-rw-r--r--. 1 ugrad 1239 Nov 15 17:51 controls$function.class
+-rw-r--r--. 1 ugrad  942 Nov 15 17:51 controls$mode.class
+-rw-r--r--. 1 ugrad 1406 Nov 10 01:27 Driver.class
+-rw-r--r--. 1 ugrad 1157 Nov 15 13:18 IterativeMath.class
+-rw-r--r--. 1 ugrad 1426 Nov 15 13:18 Main.class
+-rw-r--r--. 1 ugrad  320 Nov 10 01:27 Math.class
+-rw-r--r--. 1 ugrad 1231 Nov 10 01:27 RecursiveMath.class
+-rw-r--r--. 1 ugrad 3037 Nov 10 01:27 ReversePolishNotation.class
+
+Zheng-Chen-p3/target/streams:
+total 12
+drwxr-xr-x. 14 ugrad 4096 Nov 10 01:28 compile
+drwxr-xr-x.  8 ugrad 4096 Nov  5 11:00 $global
+drwxr-xr-x. 10 ugrad 4096 Nov 10 01:28 runtime
+
+Zheng-Chen-p3/target/streams/compile:
+total 48
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 compile
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 copyResources
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:27 $global
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 incCompileSetup
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 run
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 unmanagedJars
+
+Zheng-Chen-p3/target/streams/compile/compile:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/compile/compile/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/compile/compile/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 275 Nov 15 17:51 export
+-rw-r--r--. 1 ugrad 773 Nov 15 17:56 out
+
+Zheng-Chen-p3/target/streams/compile/copyResources:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/compile/copyResources/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/compile/copyResources/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 290 Nov 15 17:56 copy-resources
+-rw-r--r--. 1 ugrad 863 Nov 15 17:56 out
+
+Zheng-Chen-p3/target/streams/compile/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/compile/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/compile/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/compile/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/compile/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/compile/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 59 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/compile/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/compile/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/compile/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/compile/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:27 $global
+
+Zheng-Chen-p3/target/streams/compile/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:27 discoveredMainClasses
+
+Zheng-Chen-p3/target/streams/compile/$global/$global/discoveredMainClasses:
+total 4
+-rw-r--r--. 1 ugrad 22 Nov 15 17:58 data
+
+Zheng-Chen-p3/target/streams/compile/incCompileSetup:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/compile/incCompileSetup/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:27 streams
+
+Zheng-Chen-p3/target/streams/compile/incCompileSetup/$global/streams:
+total 40
+-rw-r--r--. 1 ugrad 37357 Nov 15 17:51 inc_compile_2.10
+
+Zheng-Chen-p3/target/streams/compile/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/compile/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/compile/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/compile/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/compile/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/compile/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/compile/run:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/compile/run/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/compile/run/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 199 Nov 15 17:56 out
+
+Zheng-Chen-p3/target/streams/compile/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/compile/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/compile/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/compile/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/compile/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/compile/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/$global:
+total 24
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 dependencyPositions
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 ivyConfiguration
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 ivySbt
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 projectDescriptors
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 update
+
+Zheng-Chen-p3/target/streams/$global/dependencyPositions:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/$global/dependencyPositions/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/$global/dependencyPositions/$global/streams:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 update_cache_2.10
+
+Zheng-Chen-p3/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10:
+total 8
+-rw-r--r--. 1 ugrad  74 Nov  5 11:00 input_dsp
+-rw-r--r--. 1 ugrad 135 Nov 15 17:56 output_dsp
+
+Zheng-Chen-p3/target/streams/$global/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/$global/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/$global/$global/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov  5 11:00 out
+
+Zheng-Chen-p3/target/streams/$global/ivyConfiguration:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/$global/ivyConfiguration/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/$global/ivyConfiguration/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 172 Nov  5 11:00 out
+
+Zheng-Chen-p3/target/streams/$global/ivySbt:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/$global/ivySbt/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/$global/ivySbt/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov  5 11:00 out
+
+Zheng-Chen-p3/target/streams/$global/projectDescriptors:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/$global/projectDescriptors/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/$global/projectDescriptors/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov  5 11:00 out
+
+Zheng-Chen-p3/target/streams/$global/update:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 $global
+
+Zheng-Chen-p3/target/streams/$global/update/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov  5 11:00 streams
+
+Zheng-Chen-p3/target/streams/$global/update/$global/streams:
+total 28
+-rw-r--r--. 1 ugrad 21247 Nov  5 11:00 out
+drwxr-xr-x. 2 ugrad  4096 Nov  5 11:00 update_cache_2.10
+
+Zheng-Chen-p3/target/streams/$global/update/$global/streams/update_cache_2.10:
+total 20
+-rw-r--r--. 1 ugrad  1572 Nov  5 11:00 inputs
+-rw-r--r--. 1 ugrad 13550 Nov 15 17:56 output
+
+Zheng-Chen-p3/target/streams/runtime:
+total 32
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 fullClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 unmanagedJars
+
+Zheng-Chen-p3/target/streams/runtime/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/runtime/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/runtime/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 59 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/runtime/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/runtime/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/runtime/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 59 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/runtime/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/runtime/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/runtime/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/runtime/fullClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/runtime/fullClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/runtime/fullClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 59 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/runtime/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/runtime/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/runtime/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 59 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/runtime/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/runtime/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/runtime/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/runtime/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/runtime/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/runtime/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+
+Zheng-Chen-p3/target/streams/runtime/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 10 01:28 $global
+
+Zheng-Chen-p3/target/streams/runtime/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 10 01:28 streams
+
+Zheng-Chen-p3/target/streams/runtime/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 15 17:56 export
+/home/ugrads/zheng/Zheng-Chen-p3:/home/work/cs1302b

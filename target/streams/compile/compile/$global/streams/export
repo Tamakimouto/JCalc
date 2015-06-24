@@ -1,0 +1,1 @@
+javac -d /home/ugrads/zheng/Zheng-Chen-p3/target/scala-2.10/classes -classpath /home/ugrads/zheng/Zheng-Chen-p3/target/scala-2.10/classes:/home/ugrads/zheng/.sbt/boot/scala-2.10.4/lib/scala-library.jar /home/ugrads/zheng/Zheng-Chen-p3/src/main/java/cs1302/calc/IterativeMath.java /home/ugrads/zheng/Zheng-Chen-p3/src/main/java/cs1302/calc/controls.java

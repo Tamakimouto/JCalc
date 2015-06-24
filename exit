@@ -1,0 +1,648 @@
+[33mcommit 9e937e2d4040c290af7b3415d78210159e5d1c70[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 28 07:33:12 2014 -0400
+
+    updated README.md
+
+[33mcommit 6e74fa076a705d3ba3ff6ca4008b42b37d655414[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 28 07:22:39 2014 -0400
+
+    updated README.md
+
+[33mcommit af6bce89155b0952dc14fb6bd00cccc9861818c1[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 28 07:08:15 2014 -0400
+
+    updated skeleton
+
+[33mcommit ca6342caa59aec0b725b8643ab349429a44b643c[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 28 06:53:04 2014 -0400
+
+    updated skeleton
+
+[33mcommit aab470bd0141d2a422f4fe43735a4b0d0f360075[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 28 06:44:03 2014 -0400
+
+    updated css and fxml
+
+[33mcommit 2b04a7ebe65983802ffa49757219be4e4de1c487[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 28 06:31:57 2014 -0400
+
+    updated SBT
+
+[33mcommit 7bddd874fccb640d871fd7ca396b293fc089d14c[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 28 06:30:56 2014 -0400
+
+    removed unneeded REPORT.md
+
+[33mcommit 7e8069d4207df6dedc6d70a8620ef0c8620fffe0[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 28 06:30:22 2014 -0400
+
+    updated README.md for Fall 2014
+
+[33mcommit 4b2d100bd63b82dd81eba1ea5d6f85c0ee5b81de[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 28 06:07:01 2014 -0400
+
+    removed jfxrt.jar because we're now using Java 8
+
+[33mcommit c4e5713b2bc785e8f7b9091a2938a848a6f64e58[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 10:53:47 2014 -0400
+
+    updated README
+
+[33mcommit a9e97376aa6eeeb435ff05282339cf0f24285ef9[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 10:35:35 2014 -0400
+
+    updated README
+
+[33mcommit 4825823b8fd0bee01b218a014e0cdb1a39bacfbe[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 10:35:04 2014 -0400
+
+    updated README
+
+[33mcommit deb18398f7c1d1f32956b21df53f10afc83ca0db[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 10:23:10 2014 -0400
+
+    updated README
+
+[33mcommit d3b8f11555f7f350862508a84eb65ce95811e328[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 10:21:02 2014 -0400
+
+    updated README
+
+[33mcommit 8c64ef636db2abd460acbbb88ce022cbd41b6ab5[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 10:18:12 2014 -0400
+
+    updated README
+
+[33mcommit 6c771bc21e8e52663b7d51452ec60ab960aa1c6f[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 09:52:38 2014 -0400
+
+    updated driver
+
+[33mcommit ea37404df745c4ed38eb9a68e84d07b2d1a7267e[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 09:49:08 2014 -0400
+
+    added JavaFX stuff
+
+[33mcommit 83270871a0833a56d22c8842ba41eb06a93d4a76[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 09:48:42 2014 -0400
+
+    added JavaFX stuff
+
+[33mcommit 9a200dce8446cee4c5d12f7dc5bbcd0fd1614164[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Mar 25 09:48:17 2014 -0400
+
+    added JavaFX stuff
+
+[33mcommit 179b72c09ebb4e2319fb4d4fce5c67b5b4a080f6[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Apr 14 18:52:48 2013 -0400
+
+    added throws StackOverflowError to evaluate
+
+[33mcommit 5962b3ef18eeb27b1fbbb2cb6a56efe3b2b5389f[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Apr 14 18:44:50 2013 -0400
+
+    updated the WAT in BasicMath
+
+[33mcommit ff7a8078122ed55ef3a4228be94816a168d8d87b[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Apr 14 18:37:43 2013 -0400
+
+    removed DomainException
+
+[33mcommit b7cfd4e74431e9e0635081a6db7b67d5751063d5[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Apr 14 18:35:25 2013 -0400
+
+    Added a BasicMath implementation for testing
+
+[33mcommit 99a579ef7e15d760df6ef036fc44a00b29f602fa[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Apr 14 18:34:57 2013 -0400
+
+    Updated the unit test for ReversePolishNotation
+
+[33mcommit 13faa37527bda67994bf51a1d8c73627efeb1f95[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Apr 14 18:14:24 2013 -0400
+
+    Updated the unit test for ReversePolishNotation
+
+[33mcommit 3c06f4ea6b89360c78aeaf94e433b89fba197141[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Apr 14 18:02:16 2013 -0400
+
+    Updated the unit test for ReversePolishNotation
+
+[33mcommit e7330386796a558dc44fdf2645b4347bc10b3af2[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Apr 14 17:19:31 2013 -0400
+
+    fixed typos in the submission instructions
+
+[33mcommit cb8c38f64e0ef356b30d8db3c8e227a4f7ff1c6b[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Fri Apr 12 11:32:37 2013 -0400
+
+    fixed precedence
+
+[33mcommit bb01099fb84995064dffdcf492b552fd1ec55597[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Wed Apr 10 17:16:59 2013 -0400
+
+    removed DomainException from ReversePolishNotation
+
+[33mcommit 06e9c325ba5591d799e637c783e96ea2bbd6abf0[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Wed Apr 10 14:40:50 2013 -0400
+
+    updated README
+
+[33mcommit f5c8d8e1bf45690b0e0db42b9f8f0965d4960e1e[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 8 16:08:40 2013 -0400
+
+    changed rshift and lshift operators
+
+[33mcommit e6b211c4730aa5dc4e4ca9aa9b268e6fcbb60eb8[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Thu Apr 4 15:04:17 2013 -0400
+
+    removed DomainException
+
+[33mcommit 9a8f6997268b9f57abcf6016b69abca827720013[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Wed Apr 3 14:29:05 2013 -0400
+
+    updated README
+
+[33mcommit b20ebac08b4234367712475c7f324da71c69f941[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Wed Apr 3 14:24:55 2013 -0400
+
+    updated README
+
+[33mcommit e7a07003e9d9f0feb538a03381326feaae41a4ca[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Wed Apr 3 10:27:25 2013 -0400
+
+    fixed some errors in RPN
+
+[33mcommit 36532c798e5c945cd0c455d7f5743826657d57db[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Apr 2 12:30:50 2013 -0400
+
+    added mockup examples
+
+[33mcommit 5148283c5d66b45e026696d129b06c1ac0c33661[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Apr 2 12:30:13 2013 -0400
+
+    updated description
+
+[33mcommit bf5ab92fafe362f8fe2d7f7b99d07c13dbd15fa1[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 20:22:55 2013 -0400
+
+    updated skeleton code
+
+[33mcommit 51b8d28a5b31b9cb0f524b6b3f986c86c3007f8e[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 20:18:28 2013 -0400
+
+    updated skeleton code
+
+[33mcommit b18626b21a7456bc109eb6c2a5566416516baee8[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 20:17:52 2013 -0400
+
+    updated skeleton code
+
+[33mcommit 82862b9b0d2b0dea4601faf0987a98f79a0e0b70[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 19:34:25 2013 -0400
+
+    updated project description
+
+[33mcommit cc6d52378e992f927ab5b358f2ead4bf7cccac1d[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 19:18:27 2013 -0400
+
+    updated project description
+
+[33mcommit b4d05a860b48d1a0e0da01a1ac095c040aadd334[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 19:06:19 2013 -0400
+
+    updated project description
+
+[33mcommit 0c9c9ea0a7542b7e6bafa7dca39a53759db16391[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 19:04:02 2013 -0400
+
+    updated project description
+
+[33mcommit f0e087dd4db7a034e9102b0c2748c9276ea3adc2[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 19:01:37 2013 -0400
+
+    updated project description
+
+[33mcommit f6ebc3866081cd2609c6f46cf60b273a85e0e541[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 18:45:33 2013 -0400
+
+    Updated README
+
+[33mcommit b57ba176709cc8e0953c69bb2f82d3e9bbc0c081[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 18:42:36 2013 -0400
+
+    Updated README
+
+[33mcommit 770cce70d09d3925d596f555fe3997a16f23d777[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 18:37:36 2013 -0400
+
+    Updated interface
+
+[33mcommit c2c06c8fc79941c584d63e1aca55efb2ee19bc80[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 18:34:59 2013 -0400
+
+    Updated Project Description
+
+[33mcommit 094db7b17ff262b566c603d47967e144617df51c[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 18:28:39 2013 -0400
+
+    Updated README
+
+[33mcommit 87d486773d6193e29c9076acc2821ec51b569cdd[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 18:22:01 2013 -0400
+
+    Update README
+
+[33mcommit 2f6ad5d8d577b40b24c4cf1fbe67d18df2fe6633[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 17:20:06 2013 -0400
+
+    updated README
+
+[33mcommit a21377add4702a04f42600d37b2a687259a8169d[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 16:46:29 2013 -0400
+
+    update README
+
+[33mcommit 2ef783569113bb3fae732397e446580bf9abe8c2[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 16:40:42 2013 -0400
+
+    updated
+
+[33mcommit ba14c82442b8d6704cc5206cad58f1da5d22bdf6[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 16:37:32 2013 -0400
+
+    UPDATED README
+
+[33mcommit aea0883c543a9d890538c3cccb562c6b35bc7456[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 11:59:05 2013 -0400
+
+    Updated README
+
+[33mcommit 83db736298a591cd68c7eb5c3c378c136d73a752[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Apr 1 11:47:12 2013 -0400
+
+    Updated README
+
+[33mcommit 6e1a63a2d64f3b1effb8cbde3a86bea38c20c8d1[m
+Author: Michael Cotterell <mepcotterell@gmail.com>
+Date:   Fri Oct 19 10:53:32 2012 -0300
+
+    Update src/main/java/cs1302/calc/Math.java
+
+[33mcommit 88f162ece2411458da66f3382f4052692e69cbcd[m
+Author: Michael Cotterell <mepcotterell@gmail.com>
+Date:   Fri Oct 19 10:52:05 2012 -0300
+
+    Updated DomainException, adding a default constructor.
+
+[33mcommit 310005f42f397c4b0011f9e53e6dbcb7dc882c45[m
+Author: Michael Cotterell <mepcotterell@gmail.com>
+Date:   Thu Oct 18 11:03:02 2012 -0300
+
+    Update README.md
+
+[33mcommit 3e75de552cefaa135d1e9868d7b4eb46d55b8e16[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 15 11:01:05 2012 -0400
+
+    made evaluate work with nrgativre numbers
+
+[33mcommit fd9453d10168f82bb0d8143c87297453361ea1dd[m
+Merge: 95f12dc a763d45
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Wed Oct 3 06:02:48 2012 -0400
+
+    Merge branch 'master' of github.com:mepcotterell/cs1302-calculator
+
+[33mcommit 95f12dc150d37663e3a942c74b1e1b0065988d99[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Wed Oct 3 06:01:59 2012 -0400
+
+    added some notes about recursive math to the readme
+
+[33mcommit 9c6f493399da5fc313fb8fa572bb9601a5ceee36[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Wed Oct 3 05:54:14 2012 -0400
+
+    updated a note in the BasicMath.java file
+
+[33mcommit a763d45a9ba3069cb3a8a8c86e0640cefe101274[m
+Author: Michael Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 2 17:58:41 2012 -0300
+
+    Update README.md
+
+[33mcommit f9d136d8656d8e542245611cc3864e734d6a0452[m
+Author: Michael Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 2 17:58:07 2012 -0300
+
+    Update README.md
+
+[33mcommit ec28d84f2fbf16935053920ebc39c75fa636812a[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 2 09:03:17 2012 -0400
+
+    added a note about javadoc for the skeleton code
+
+[33mcommit 1b8a6bb233f0dc7480d0224fb55ecf720406219e[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 2 09:00:04 2012 -0400
+
+    updated the introduction to the readme
+
+[33mcommit 017885ea2c260bdfb2d3c47c54445569ccd2a5a3[m
+Author: Michael Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 2 09:57:10 2012 -0300
+
+    updated the academic honesty section of the readme
+
+[33mcommit cb3eb4a8562f4aac06fb83bf73b97b0548a54a27[m
+Author: Michael Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 2 09:56:10 2012 -0300
+
+    updated the tasks section of the readme
+
+[33mcommit 23e927cfea44f5e2c225d1e90346e1acbe37515c[m
+Author: Michael Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 2 09:52:26 2012 -0300
+
+    Update the extra credit section of the readme.
+
+[33mcommit 93b6be6ee471bc1198627f08beb21ddd46bb7112[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Tue Oct 2 00:40:02 2012 -0400
+
+    updated the readme
+
+[33mcommit a26820b2bb1cdc0eded14360fb842887c1a22625[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 23:54:06 2012 -0400
+
+    updated the readme
+
+[33mcommit 47ab78e4ce9dc87d0756660bd246accfd905422d[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 23:52:21 2012 -0400
+
+    updated the readme
+
+[33mcommit 2bd212d5e5a613edcb6cac5b46984a698778336d[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 23:50:27 2012 -0400
+
+    updated the readme
+
+[33mcommit 24a9965766fd431e9f97ac1d3ea48a56bf247ea3[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 23:43:16 2012 -0400
+
+    cleaned up some comments
+
+[33mcommit e28d73bb2ec92d8340732c8844d4715295f51e06[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 23:36:47 2012 -0400
+
+    Updated the evaluate method in ReversePolishNotation
+
+[33mcommit 1b098f5e351229eaf5c418bd1b3848fbc3696564[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 23:01:55 2012 -0400
+
+    spell check readme
+
+[33mcommit 9a1583a2e63bf54ac3beeb042d4a7b18a856058f[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 22:55:07 2012 -0400
+
+    added a mock-up to the readme
+
+[33mcommit 676bfda1e9df9280fe565b904a19ea07dea3482c[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 22:44:00 2012 -0400
+
+    added a mock-up to the readme
+
+[33mcommit 947970f1ce3edbede8870784d1115e1344fa8fb8[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 22:42:10 2012 -0400
+
+    added a mock-up to the readme
+
+[33mcommit e7837637d86ab59eeccc6dcc6a4d32ba1462447f[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 21:57:42 2012 -0400
+
+    updated FAQ in the readme
+
+[33mcommit 53bbca484f17cb1495b918e6883add4e0e66b722[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 21:56:38 2012 -0400
+
+    updated FAQ in the readme
+
+[33mcommit 3adca85c6f21de0bc351edd1786a27ba8e110e17[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 21:34:36 2012 -0400
+
+    updated the README file
+
+[33mcommit d17243f2b0f3722efe8f8f13fbd964128b0c033f[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 21:25:29 2012 -0400
+
+    updated the README file to include information about academic honesty
+
+[33mcommit e13da0308bf1ba63d1c44b39070ba7f44add9fe1[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 20:55:44 2012 -0400
+
+    updated the README file
+
+[33mcommit 66d3979acf0f9e885bc4d500295c91cda10df16e[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 20:54:43 2012 -0400
+
+    updated the README file
+
+[33mcommit ef8835389f815a961d86ec4fa2c1f59843241245[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 20:54:22 2012 -0400
+
+    updated example code in the Calculator skeleton
+
+[33mcommit 4b71cb94a544c81787a3b54fe1d33b2c28517538[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 20:17:11 2012 -0400
+
+    updated the example in the Calculator class. updated the README
+
+[33mcommit 18b740e58cf509d94054a2361aa9995551d8376f[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 15:33:30 2012 -0400
+
+    updated the readme
+
+[33mcommit bec50b852e90e22ca6429105134cf3cfb3a58bcf[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 15:28:27 2012 -0400
+
+    updated the readme
+
+[33mcommit 5842c2548f37c46d26d493e8f799578902b8b578[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 15:26:13 2012 -0400
+
+    updated the readme
+
+[33mcommit 6df03203f2b99d3bc005d3692da87f89d410c590[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 15:24:24 2012 -0400
+
+    updated the readme
+
+[33mcommit 306e9587f094db348d74e514bcbe0c1e5e4015a0[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 15:19:05 2012 -0400
+
+    updated the readme
+
+[33mcommit 585d6e015bb29723762b226dd98c4b532684f738[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 15:04:43 2012 -0400
+
+    updated the readme
+
+[33mcommit 1baff77f154c2adc0b9746424ce249b4157f59f4[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 14:59:55 2012 -0400
+
+    added Math inteface and stubs for implementation
+
+[33mcommit d822c8e730820e497261bfc0e5a6e358e72fd804[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 13:14:51 2012 -0400
+
+    updated tests
+
+[33mcommit a67f391b4957d8f54257e1eca2d239a11b91a23d[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 11:53:12 2012 -0400
+
+    updated skeleton code
+
+[33mcommit 3bec82e0ea9599ac87f9d8112c5bc6897e24fc63[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Mon Oct 1 11:41:47 2012 -0400
+
+    updated skeleton code
+
+[33mcommit f9aa8673764253a3b648d13326d9b3725882daa6[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Sep 30 22:13:42 2012 -0400
+
+    added some more skeleton code
+
+[33mcommit b1b760f387edfc8a7aa20c2d2632f20defd4faa3[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Sep 30 20:06:21 2012 -0400
+
+    added some more skeleton
+
+[33mcommit 57dc472f2428d37cd3c7c239a59c1c6118cfb520[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Sep 30 20:03:46 2012 -0400
+
+    added some more skeleton
+
+[33mcommit adce88559b7ba3ad24adb882f4b365988eaaf65a[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Sep 30 19:56:22 2012 -0400
+
+    updated the skeleton code
+
+[33mcommit 3820bd0c790f2b60b7ca08ba037c098510af0005[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Sep 30 19:40:01 2012 -0400
+
+    added dummy test for Driver
+
+[33mcommit 61548a65cfacd3c8f28e1748da46fbabb97fed05[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Sep 30 19:39:35 2012 -0400
+
+    added dummy test for Driver
+
+[33mcommit 3b0014890a4d96dc9dfcd81f8c937b47d0b68baa[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Sep 30 19:32:21 2012 -0400
+
+    updated with initial files
+
+[33mcommit a1b75fcd4bb1fb5e8da898ad766148738d7311cf[m
+Author: Michael E. Cotterell <mepcotterell@gmail.com>
+Date:   Sun Sep 30 19:31:58 2012 -0400
+
+    updated with initial files
+
+[33mcommit 5ae272362d5abf717d3c32b5a3e1c677899563ef[m
+Author: Michael Cotterell <mepcotterell@gmail.com>
+Date:   Sun Sep 30 15:57:20 2012 -0700
+
+    Initial commit
