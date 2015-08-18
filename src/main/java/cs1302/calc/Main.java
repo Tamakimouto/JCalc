@@ -10,16 +10,16 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 import java.io.IOException;
- 
+
 public class Main extends Application {
 
     public static void main(String[] args) {
         launch(args);
     } // main
-    
+
     @Override
     public void start(Stage primaryStage) {
-	
+
 	try {
 	    Parent root = FXMLLoader.load(getClass().getResource("/calc.fxml"));
 	    primaryStage.setTitle(" @ The $uper $wag M0n3y Add3R! ");

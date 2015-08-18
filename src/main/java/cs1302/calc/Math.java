@@ -1,6 +1,6 @@
 package cs1302.calc;
 
-/** 
+/**
  * Provides an interface for different mathematical operations
  */
 public interface Math {
@@ -60,7 +60,7 @@ public interface Math {
     public int div(int lhs, int rhs) throws ArithmeticException;
 
     /**
-     * Returns the result of the unary factorial operation "num !". 
+     * Returns the result of the unary factorial operation "num !".
      *
      * @param num the operand
      * @return the result of the operation
@@ -68,7 +68,7 @@ public interface Math {
     public int fac(int num);
 
     /**
-     * Returns the result of the binary exponentiation operation "lhs ^ rhs". 
+     * Returns the result of the binary exponentiation operation "lhs ^ rhs".
      *
      * @param lhs the first operand
      * @param rhs the second operand
@@ -77,7 +77,7 @@ public interface Math {
     public int pow(int lhs, int rhs);
 
     /**
-     * Returns the result of the binary left-shift operation "lhs << rhs". 
+     * Returns the result of the binary left-shift operation "lhs << rhs".
      *
      * @param lhs the first operand
      * @param rhs the second operand
@@ -86,7 +86,7 @@ public interface Math {
     public int lshift(int lhs, int rhs);
 
     /**
-     * Returns the result of the binary right-shift operation "lhs >> rhs". 
+     * Returns the result of the binary right-shift operation "lhs >> rhs".
      *
      * @param lhs the first operand
      * @param rhs the second operand
